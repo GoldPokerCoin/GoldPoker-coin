@@ -1,4 +1,4 @@
-Gold Poker Core 1.3.3
+Gold Poker Core 1.4.0.0
 =================================================
 
 <p align="center">
@@ -10,8 +10,6 @@ Gold Poker Core 1.3.3
 
 - Website: https://gold-poker.com
 - Explorer: https://explorer.gold-poker.com/
-- Github: https://github.com/GoldPoker/GoldPoker-coin/
-
 
 License
 -------
