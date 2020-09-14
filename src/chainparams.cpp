@@ -166,6 +166,9 @@ public:
         vSeeds.push_back(CDNSSeedData("s2.gold-poker.com", "s2.gold-poker.com"));
         vSeeds.push_back(CDNSSeedData("s3.gold-poker.com", "s3.gold-poker.com"));
         vSeeds.push_back(CDNSSeedData("s4.gold-poker.com", "s4.gold-poker.com"));
+        vSeeds.push_back(CDNSSeedData("gpkr1.coinseed.eu", "gpkr1.coinseed.eu")); //backup seed
+        vSeeds.push_back(CDNSSeedData("gpkr2.coinseed.eu", "gpkr2.coinseed.eu")); //backup seed
+        vSeeds.push_back(CDNSSeedData("gpkr3.coinseed.eu", "gpkr3.coinseed.eu")); //backup seed
 
         // Gpkr addresses start with 'G'
         base58Prefixes[PUBKEY_ADDRESS] = std::vector<unsigned char>(1, 38);
